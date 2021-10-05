@@ -6,21 +6,21 @@ const Contact = () =>{
         <div className='d-flex'>
             <div className='contact'>
             <h1>Address</h1>
-                <p>FFS-53 First Floor RDA Complex, New Rajendra Nagar Raipur (C.G.)</p>
+                <p>Muhammodpur kaja goli Dhaka</p>
             </div>
                 <div className='contact'>
             <h1>Contact</h1>
-                <p>+91 8518070809</p>
-                <p>+91 0771-4918898</p>
+                <p>+91998980809</p>
+                <p>009787</p>
             </div> 
             <div className='contact'>
             <h1>Email</h1>
-                <p>dkirteshsolutions@-gmail.com</p>
-                <p>info@dkirteshsolution.com</p>
+                <p>uwsshdhs@-gmail.com</p>
+                <p>pjahah@n.com</p>
             </div>
             <div className='contact'>
                 <h1>Have Any Questions?</h1>
-                <p>If you have any query about our service please contact with us..</p>
+                <p>If you have any query about our service please contact with us.</p>
             </div>
         </div>
     );
